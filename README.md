@@ -1,7 +1,7 @@
 # Hướng dẫn sử dụng
 ## Chạy chương trình:
 <p>python3 detai.py</p>
-<h2> Ý nghĩa các tham số trong hàm main<h2>:
+<h2> Ý nghĩa các tham số trong hàm main</h2>:
 <p>resultString = preprocessFile(fileType,folderContainsFile,fileTextToSave)</p>
 <p>fileType:string là kiểu file có 3 kiểu: "pdf", "image", "text"</p>
 <p>folderContainsFile: string là folder chứa file cần xử lí, cho phép nhiều file cùng loại</p>
