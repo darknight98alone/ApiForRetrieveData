@@ -1,6 +1,6 @@
 # Hướng dẫn sử dụng
 ## Chạy chương trình:
-python3 detai.py.
+> python3 detai.py.
 ## Ý nghĩa các tham số trong hàm main:
 **resultString** = preprocessFile(fileType,folderContainsFile,fileTextToSave).  
 **fileType**:string là kiểu file có 3 kiểu: "pdf", "image", "text".  
